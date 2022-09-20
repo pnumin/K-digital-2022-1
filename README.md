@@ -2,3 +2,4 @@
 + AI 활용 빅데이터분석 풀스택웹서비스 SW 개발자 양성과정
  
 + 수강자 링크 
+ + pnusw05 이창현 https://github.com/ckdtns5262
