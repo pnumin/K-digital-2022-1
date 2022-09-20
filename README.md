@@ -7,5 +7,6 @@
  + pnusw03 : 이무혁 https://github.com/muhyeoklee
  + pnusw04 : 금민경 https://github.com/min0312
  + pnusw05 : 이창현 https://github.com/ckdtns5262
+ + pnusw08 윤진식 https://github.com/sweethedge
  + pnusw11 안현수 https://github.com/Anhsss/
- 
+  
