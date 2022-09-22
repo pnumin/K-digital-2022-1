@@ -36,3 +36,7 @@
       + https://fonts.google.com/
       + https://cssgradient.io/
       + https://www.shapedivider.app/
+      + https://haikei.app/
+      + https://coolbackgrounds.io/
+      + https://dribbble.com/
+      + https://www.sliderrevolution.com/resources/css-forms/
