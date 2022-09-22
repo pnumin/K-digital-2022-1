@@ -17,6 +17,7 @@
   + pnusw15 : 김민수 https://github.com/Minsu0207
   + pnusw16 : 최창민 https://github.com/YoonArum
   + pnusw17 : 문상현 https://github.com/redi961
+  + pnusw18 : 이정민 https://github.com/danmiee
   + pnusw19 : 변혁 https://github.com/uiiunm
  
  + 프론트엔드 참고사이트
