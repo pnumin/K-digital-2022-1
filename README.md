@@ -40,3 +40,4 @@
       + https://coolbackgrounds.io/
       + https://dribbble.com/
       + https://www.sliderrevolution.com/resources/css-forms/
+      + https://yesviz.com/devices.php
