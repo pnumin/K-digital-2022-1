@@ -18,3 +18,18 @@
   + pnusw16 : 최창민 https://github.com/YoonArum
   + pnusw17 : 문상현 https://github.com/redi961
  
+ + 프론트엔드 참고사이트
+    + 표준 : https://html.spec.whatwg.org/multipage/
+    + 참고 사이트 
+      + https://www.w3schools.com/
+      + https://developer.mozilla.org/ko/docs/Web/HTML
+      + https://www.advancedwebranking.com/seo/html-study/
+      + https://emmet.io/
+
+    + CSS 관련 참고
+      + https://mycolor.space/
+      + https://colorhunt.co/
+      + https://www.photopea.com/
+      + https://fontawesome.com/
+      + https://fonts.google.com/
+
